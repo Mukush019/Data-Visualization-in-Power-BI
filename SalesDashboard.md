@@ -31,3 +31,4 @@ The data contains:
 ## Tools
 This project was done in *Power BI Desktop* **ONLY**
 [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+## Data Cleaning and Preparation
