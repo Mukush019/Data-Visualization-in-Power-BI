@@ -32,3 +32,22 @@ The data contains:
 This project was done in *Power BI Desktop* **ONLY**
 [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 ## Data Cleaning and Preparation
+- Data loading and inspection
+- Data formatting
+   - Dimension Modelling
+     The data contained only one table with a combination of dimensions and measures. All this was done in power query in Power BI. This step involves the creation of a star schema. The steps taken were as follows:
+      1. Duplicating the original table.
+      2. Removing unnecessary columns, *ONLY* leaving relevant columns for that dimension table. i.e Customer Table only has Customer Age, AgeGroup, and Customer Gender
+      3. Adding a *Primary Key* for the dimension table using the Index Column option in Power BI. A DAX was also used to make the Primary Key dimension specific.
+         
+         ```dax
+         "Customer_ID" = "Cust_" & Text.PadStart(Text.From([Index]),3,"0")
+         ```
+      4. The final step involved merging the dimension table with the fact table.
+    The final result was a **Star Schema**.
+    *Dimension Table* - Customer_Table
+                      - Product_Table
+                      - Date Table
+                      - Country_Table
+    *Fact Table* - Sales_Fact_Table
+## Exploratory Data Analysis
