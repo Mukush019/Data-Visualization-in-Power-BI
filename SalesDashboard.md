@@ -61,4 +61,5 @@ EDA involved exploring the sales data to answer key questions, such as:
 -  How do sales vary depending on age?
 -  In which months do we have peak sales?
 -  Which product categories and sub-categories provide the highest sales and profit, and which ones do we need to market?
--  
+
+## Data Analysis
