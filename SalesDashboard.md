@@ -35,9 +35,9 @@ This project was done in *Power BI Desktop* **ONLY**
 - Data loading and inspection
 - Data formatting
    - Dimension Modelling
-     The data contained only one table with a combination of dimensions and measures. All this was done in power query in Power BI. This step involves the creation of a star schema. The steps taken were as follows:
+     The data contained only one table with a combination of dimensions and measures. All this was done in Power Query in Power BI. This step involves the creation of a star schema. The steps taken were as follows:
       1. Duplicating the original table.
-      2. Removing unnecessary columns, *ONLY* leaving relevant columns for that dimension table. i.e Customer Table only has Customer Age, AgeGroup, and Customer Gender
+      2. Removing unnecessary columns, *ONLY* leaving relevant columns for that dimension table. i.e, Customer Table only has Customer Age, AgeGroup, and Customer Gender
       3. Adding a *Primary Key* for the dimension table using the Index Column option in Power BI. A DAX was also used to make the Primary Key dimension specific.
          
          ```dax
@@ -51,3 +51,14 @@ This project was done in *Power BI Desktop* **ONLY**
                       - Country_Table
     *Fact Table* - Sales_Fact_Table
 ## Exploratory Data Analysis
+EDA involved exploring the sales data to answer key questions, such as:
+- What is the total revenue?
+- Describe the revenue growth rate both annually and quarterly
+- How does the profit margin vary?
+- Has customer spending increased or decreased over the years?
+- What are the top 5 products in terms of revenue and profit?
+- What is the country-wise contribution regarding orders, revenue, and profit?
+-  How do sales vary depending on age?
+-  In which months do we have peak sales?
+-  Which product categories and sub-categories provide the highest sales and profit, and which ones do we need to market?
+-  
