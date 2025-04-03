@@ -60,6 +60,12 @@ EDA involved exploring the sales data to answer key questions, such as:
 - What is the country-wise contribution regarding orders, revenue, and profit?
 -  How do sales vary depending on age?
 -  In which months do we have peak sales?
--  Which product categories and sub-categories provide the highest sales and profit, and which ones do we need to market?
+-  Which product categories and sub-categories provide the highest sales and profit, and which do we need to market?
 
 ## Data Analysis
+A time series analysis was done to come up with the KPIs. The following measures and DAX were used in the visualization of the various key performance indicators:
+- Total Sales
+  ```dax
+    Total Revenue = SUM(sales_Fact_Table[Revenue])
+  ```
+
