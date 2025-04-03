@@ -79,3 +79,42 @@ Total Profit = SUM(sales_Fact_Table[Profit])
     COUNTROWS(sales_Fact_Table)
 )
 ```
+- Current Year Sales
+```dax
+Current Year Revenue = TOTALYTD(
+                                [Total Revenue],
+                                DATESYTD('Date'[Date])
+)
+```
+- Current Quarter Sales
+```dax
+Current Quarter Sales = TOTALQTD(
+                                [Total Revenue],
+                                DATESQTD('Date'[Date])
+)
+ ```
+- Previous Year Sales
+```dax
+  Previous Year Revenue = CALCULATE(
+                                    [Total Revenue],
+                                    PREVIOUSYEAR(
+                                        DATESYTD('Date'[Date])
+                                    )
+                                )
+```
+Previous Quarter Sales
+```dax
+Previous QTD Sales = CALCULATE(
+                        [Total Revenue],
+                        PREVIOUSQUARTER(
+                            DATESQTD('Date'[Date])
+                        )
+                        )
+```
+- Annual and Quarterly Growth Rate
+```dax
+Yearly Growth Rate = DIVIDE(([Current Year Revenue]-[Previous Year Revenue]),[Previous Year Revenue])
+```
+```dax
+Quarterly Revenue Growth = DIVIDE(([Current Quarter Sales]-[Previous QTD Sales]),[Previous QTD Sales])
+```
