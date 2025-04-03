@@ -68,4 +68,14 @@ A time series analysis was done to come up with the KPIs. The following measures
   ```dax
     Total Revenue = SUM(sales_Fact_Table[Revenue])
   ```
-
+- Total profit
+```dax
+Total Profit = SUM(sales_Fact_Table[Profit])
+```
+- Average order value
+```dax
+  Average Order Value = DIVIDE(
+    [Total Revenue],
+    COUNTROWS(sales_Fact_Table)
+)
+```
