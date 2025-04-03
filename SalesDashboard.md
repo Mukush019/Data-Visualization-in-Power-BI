@@ -118,3 +118,19 @@ Yearly Growth Rate = DIVIDE(([Current Year Revenue]-[Previous Year Revenue]),[Pr
 ```dax
 Quarterly Revenue Growth = DIVIDE(([Current Quarter Sales]-[Previous QTD Sales]),[Previous QTD Sales])
 ```
+- Profit Margin
+```dax
+F-Profit Margin = DIVIDE(
+                       [Total Profit],
+                       [Total Revenue]
+)
+```
+The following DAX was used in creating age ranges that were used in the histogram 
+```dax
+NewAgeGroup = 
+VAR LowerBound = FLOOR(Customer_Table[Customer_Age],10)  
+RETURN
+     LowerBound & "-" & (LowerBound+9)
+```
+
+## Results and Findings
