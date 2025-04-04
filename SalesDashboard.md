@@ -134,3 +134,9 @@ RETURN
 ```
 
 ## Results and Findings
+This analysis results are summarized as follows:
+- The company's total sales from 2011-2016 is $ 108,756,685.
+- The annual sales dropped by 9.41% in 2016. However, it is worth noting that according to the data, 2016 was not over yet. We have sales data from January to July.
+- The quartely sales also dropped significantly. As already stated, the 2016 FY is not over yet. Since the company experienced a sharp decline in sales in July, this has contributed to the significant drop in quarterly sales.
+- The company recorded a significant improvement in profitability.
+- In the country-wise analysis, the United States tops the list in terms of order quantity, sales, and profit. Something worthy to note is that even though Canada has a significantly higher order quantity compared to the United Kingdom, the United Kingdom records more sales and profit compared to Canada. 
