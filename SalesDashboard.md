@@ -139,9 +139,22 @@ This analysis results are summarized as follows:
 - The annual sales dropped by 9.41% in 2016. However, it is worth noting that according to the data, 2016 was not over yet. We have sales data from January to July.
 - The quartely sales also dropped significantly. As already stated, the 2016 FY is not over yet. Since the company experienced a sharp decline in sales in July, this has contributed to the significant drop in quarterly sales.
 - The company recorded a significant improvement in profitability.
-- In the country-wise analysis, the United States tops the list in terms of order quantity, sales, and profit. Something worthy to note is that even though Canada has a significantly higher order quantity compared to the United Kingdom, the United Kingdom records more sales and profit compared to Canada.
+- In the country-wise analysis, the United States tops the list in terms of order quantity, sales, and profit. Something worth noting is that even though Canada has a significantly higher order quantity than the United Kingdom, the United Kingdom records more sales and profit than Canada.
 - Customers between the ages of 30 and 39 contribute a significantly high share of revenue for the company, while customers aged 80-89 contribute the least to the company's revenue. The company's peak season is June, when it records the highest revenue before dropping sharply in July, then rising consistently in November and December.
-- The bikes product category records the highest sales and profit but significantly low order quantity. Accessories have the highest order quantity but not high sales and revenue. Clothing product category has average order quantity but significantly low sales and revenue.
+The bikes product category records the highest sales and profit but significantly low order quantity. Accessories have the highest order quantity but not high sales and revenue. The clothing product category has an average order quantity but significantly low sales and revenue.
 
 ## Recommendation
-
+Based on the analysis, I recommend the following actions:
+- The sharp decline in quarterly sales needs to be investigated urgently.
+  - Check on product availability, product marketing, or external factors like market shifts.
+- The United States dominates all the other countries in all factors, orders, sales, and profits.
+  - Investigate the successful strategies used in the US and duplicate it to the other countries.
+- The bikes product category is a top performer in both sales and profit but not order quantity.
+  - Optimize inventory and promotions for bikes
+  - Evaluate the pricing of accessories or reposition them in the market
+- The ages between 20 to 49 top sales.
+  - Our product design and marketing should be focused toward the 20-49 age range.
+- Sales peak in May, June, and December, but it is stagnant from July to October.
+  - Plan seasonal and mid-year campaigns and discounts to counter the sharp decline in sales in July and the stagnation from July to October.
+  - Ensure inventory buildup before June and December. 
+  
