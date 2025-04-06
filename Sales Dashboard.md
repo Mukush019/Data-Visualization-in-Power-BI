@@ -1,5 +1,7 @@
 # **Sales Dashboard** 
 ---
+![Sales Dashboard](https://github.com/user-attachments/assets/eb715eb8-f8f2-4f1b-9808-ca3745717d07)
+
 ## Project Overview
 A company seeks to optimize sales strategies, increase profits, and improve on customer engagement but lacks insights into key revenue drivers, product performance, and customer behaviors. This project aims to uncover opportunities for strategic growth, cost reduction, and targeted marketing by analyzing sales trends, demographic patterns, geographic distribution, and product category efficiency.
 ## Data Sources 
