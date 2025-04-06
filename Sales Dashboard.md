@@ -145,6 +145,8 @@ This analysis results are summarized as follows:
 - Customers between the ages of 30 and 39 contribute a significantly high share of revenue for the company, while customers aged 80-89 contribute the least to the company's revenue. The company's peak season is June, when it records the highest revenue before dropping sharply in July, then rising consistently in November and December.
 - The bikes product category records the highest sales and profit but significantly low order quantity. Accessories have the highest order quantity but not high sales and revenue. The clothing product category has an average order quantity but significantly low sales and revenue.
 
+![Bubble Chart](https://github.com/user-attachments/assets/da16b76b-f6c1-445a-96ee-3fbf57c56d0b)
+
 ## Recommendation
 Based on the analysis, I recommend the following actions:
 - The sharp decline in quarterly sales needs to be investigated urgently.
