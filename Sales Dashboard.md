@@ -143,7 +143,7 @@ This analysis results are summarized as follows:
 - The company recorded a significant improvement in profitability.
 - In the country-wise analysis, the United States tops the list in terms of order quantity, sales, and profit. Something worth noting is that even though Canada has a significantly higher order quantity than the United Kingdom, the United Kingdom records more sales and profit than Canada.
 - Customers between the ages of 30 and 39 contribute a significantly high share of revenue for the company, while customers aged 80-89 contribute the least to the company's revenue. The company's peak season is June, when it records the highest revenue before dropping sharply in July, then rising consistently in November and December.
-The bikes product category records the highest sales and profit but significantly low order quantity. Accessories have the highest order quantity but not high sales and revenue. The clothing product category has an average order quantity but significantly low sales and revenue.
+- The bikes product category records the highest sales and profit but significantly low order quantity. Accessories have the highest order quantity but not high sales and revenue. The clothing product category has an average order quantity but significantly low sales and revenue.
 
 ## Recommendation
 Based on the analysis, I recommend the following actions:
