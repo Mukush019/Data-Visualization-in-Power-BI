@@ -13,7 +13,7 @@ A company seeks to optimize sales strategies, increase profits, and improve on c
 [Exploratory Data Analysis](##exploratory_data_analysis)
 [Data Analysis](##data_analysis)
 [Results and Findings](##results_and_findings)
-[Recommendations](##recommendation)
+[Recommendation](##recommendation)
 
 ## Data Sources 
 The primary dataset used for this project is "sales_data" [View the data](https://docs.google.com/spreadsheets/d/1Pyd4bmOhPAGTKe0WP55vAXPNJ9zRj3nPmvesxblrCjs/edit?usp=sharing).
