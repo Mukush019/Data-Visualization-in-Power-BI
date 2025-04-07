@@ -4,6 +4,17 @@
 
 ## Project Overview
 A company seeks to optimize sales strategies, increase profits, and improve on customer engagement but lacks insights into key revenue drivers, product performance, and customer behaviors. This project aims to uncover opportunities for strategic growth, cost reduction, and targeted marketing by analyzing sales trends, demographic patterns, geographic distribution, and product category efficiency.
+
+# Table of Contents 
+[Project Overview](##project_overview)
+[Data Sources](##data_sources)
+[Tools](##tools)
+[Data Cleaning](##data_cleaning)
+[Exploratory Data Analysis](##exploratory_data_analysis)
+[Data Analysis](##data_analysis)
+[Results and Findings](##results_and_findings)
+[Recommendations](##recommendation)
+
 ## Data Sources 
 The primary dataset used for this project is "sales_data" [View the data](https://docs.google.com/spreadsheets/d/1Pyd4bmOhPAGTKe0WP55vAXPNJ9zRj3nPmvesxblrCjs/edit?usp=sharing).
 The data contains:
