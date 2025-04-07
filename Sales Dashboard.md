@@ -34,12 +34,12 @@ The data contains:
 This project was done in *Power BI Desktop* **ONLY**
 [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 ## Data Cleaning and Preparation
-- Data loading and inspection
-- Data formatting
+- Data loading and inspection.
+- Data formatting:
    - Dimension Modelling
      The data contained only one table with a combination of dimensions and measures. All this was done in Power Query in Power BI. This step involves the creation of a star schema. The steps taken were as follows:
       1. Duplicating the original table.
-      2. Removing unnecessary columns, *ONLY* leaving relevant columns for that dimension table. i.e, Customer Table only has Customer Age, AgeGroup, and Customer Gender
+      2. Removing unnecessary columns, *ONLY* leaving relevant columns for that dimension table. i.e, Customer Table only has Customer Age, AgeGroup, and Customer Gender.
       3. Adding a *Primary Key* for the dimension table using the Index Column option in Power BI. A DAX was also used to make the Primary Key dimension specific.
          
          ```dax
