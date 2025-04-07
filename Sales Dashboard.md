@@ -6,13 +6,13 @@
 A company seeks to optimize sales strategies, increase profits, and improve on customer engagement but lacks insights into key revenue drivers, product performance, and customer behaviors. This project aims to uncover opportunities for strategic growth, cost reduction, and targeted marketing by analyzing sales trends, demographic patterns, geographic distribution, and product category efficiency.
 
 # Table of Contents 
-- [Project Overview](#project_overview)
-- [Data Sources](#data_sources)
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data Cleaning](#data_cleaning)
-- [Exploratory Data Analysis](#exploratory_data_analysis)
-- [Data Analysis](#data_analysis)
-- [Results and Findings](#results_and_findings)
+- [Data Cleaning](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results and Findings](#results-and-findings)
 - [Recommendation](#recommendation)
 
 ## Data Sources 
