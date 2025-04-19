@@ -78,9 +78,9 @@ EDA involved exploring the sales data to answer key questions, such as:
 ## Data Analysis
 A time series analysis was done to come up with the KPIs. The following measures and DAX were used in the visualization of the various key performance indicators:
 - Total Sales
-  ```dax
-    Total Revenue = SUM(sales_Fact_Table[Revenue])
-  ```
+```dax
+  Total Revenue = SUM(sales_Fact_Table[Revenue])
+```
 - Total profit
 ```dax
 Total Profit = SUM(sales_Fact_Table[Profit])
