@@ -50,7 +50,7 @@ This project was done in *Power BI Desktop* **ONLY**
    - Dimension Modelling
      The data contained only one table with a combination of dimensions and measures. All this was done in Power Query in Power BI. This step involves the creation of a star schema. The steps taken were as follows:
       1. Duplicating the original table.
-      2. Remove unnecessary columns, leaving only relevant columns for that dimension table. For example, the Customer Table only has Customer Age, AgeGroup, and Customer Gender.
+      2. Remove unnecessary columns, leaving only relevant columns for that dimension table. For example, the Customer Table only has Customer Age, AgeGroup, and Gender.
       3. Adding a *Primary Key* for the dimension table using the Index Column option in Power BI. A DAX was also used to make the Primary Key dimension specific.
          
          ```dax
