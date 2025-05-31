@@ -19,10 +19,10 @@ A company seeks to optimize sales strategies, increase profits, and improve on c
 The primary dataset used for this project is "sales_data" [View the data](https://docs.google.com/spreadsheets/d/1Pyd4bmOhPAGTKe0WP55vAXPNJ9zRj3nPmvesxblrCjs/edit?usp=sharing).
 The data contains:
 - *Date information*
-  - Date
-  - Day
-  - Month
-  - Year
+  - `Date`
+  - `Day`
+  - `Month`
+  - `Year`
 - *Demographic Information*
    - Customer_Age
    - Age_Group
