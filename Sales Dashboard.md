@@ -24,23 +24,23 @@ The data contains:
   - `Month`
   - `Year`
 - *Demographic Information*
-   - Customer_Age
-   - Age_Group
-   - Customer_Gender
+   - `Customer_Age`
+   - `Age_Group`
+   - `Customer_Gender`
 - *Geographic Information*
-   - Country
-   - State
+   - `Country`
+   - `State`
 - *Product Information*
-   - Product_Category
-   - Sub_Category
-   - Product
+   - `Product_Category`
+   - `Sub_Category`
+   - `Product`
 - *Sales Information*
-   - Order_Quantity
-   - Unit_Cost
-   - Unit_Price
-   - Profit
-   - Cost
-   - Revenue
+   - `Order_Quantity`
+   - `Unit_Cost`
+   - `Unit_Price`
+   - `Profit`
+   - `Cost`
+   - `Revenue`
 ## Tools
 This project was done in *Power BI Desktop* **ONLY**
 [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
