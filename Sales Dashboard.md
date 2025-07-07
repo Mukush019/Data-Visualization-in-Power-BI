@@ -3,9 +3,11 @@
 ![Sales Dashboard](https://github.com/user-attachments/assets/eb715eb8-f8f2-4f1b-9808-ca3745717d07)
 
 ## Project Overview
+
 A company seeks to optimize sales strategies, increase profits, and improve on customer engagement but lacks insights into key revenue drivers, product performance, and customer behaviors. This project aims to uncover opportunities for strategic growth, cost reduction, and targeted marketing by analyzing sales trends, demographic patterns, geographic distribution, and product category efficiency.
 
-# Table of Contents 
+# Table of Contents
+
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
@@ -15,7 +17,8 @@ A company seeks to optimize sales strategies, increase profits, and improve on c
 - [Results and Findings](#results-and-findings)
 - [Recommendation](#recommendation)
 
-## Data Sources 
+## Data Sources
+
 The primary dataset used for this project is "sales_data" [View the data](https://docs.google.com/spreadsheets/d/1Pyd4bmOhPAGTKe0WP55vAXPNJ9zRj3nPmvesxblrCjs/edit?usp=sharing).
 The data contains:
 - *Date information*
@@ -42,6 +45,7 @@ The data contains:
    - `Cost`
    - `Revenue`
 ## Tools
+
 This project was done in *Power BI Desktop* **ONLY**
 [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 ## Data Cleaning and Preparation
@@ -63,7 +67,9 @@ This project was done in *Power BI Desktop* **ONLY**
                       - Date Table
                       - Country_Table
     *Fact Table* - Sales_Fact_Table
+
 ## Exploratory Data Analysis
+
 EDA involved exploring the sales data to answer key questions, such as:
 - What is the total revenue?
 - Describe the revenue growth rate both annually and quarterly
@@ -76,6 +82,7 @@ EDA involved exploring the sales data to answer key questions, such as:
 -  Which product categories and sub-categories provide the highest sales and profit, and which do we need to market?
 
 ## Data Analysis
+
 A time series analysis was done to come up with the KPIs. The following measures and DAX were used in the visualization of the various key performance indicators:
 - Total Sales
 ```dax
@@ -147,6 +154,7 @@ RETURN
 ```
 
 ## Results and Findings
+
 This analysis results are summarized as follows:
 - The company's total sales from 2011-2016 is $ 108,756,685.
 - The annual sales dropped by 9.41% in 2016. However, it is worth noting that according to the data, 2016 was not over yet. We have sales data from January to July.
@@ -159,6 +167,7 @@ This analysis results are summarized as follows:
 ![Bubble Chart](https://github.com/user-attachments/assets/da16b76b-f6c1-445a-96ee-3fbf57c56d0b)
 
 ## Recommendation
+
 Based on the analysis, I recommend the following actions:
 - The sharp decline in quarterly sales needs to be investigated urgently.
   - Check on product availability, product marketing, or external factors like market shifts.
